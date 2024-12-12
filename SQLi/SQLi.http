@@ -1,0 +1,6 @@
+@SQLi_HostAddress = http://localhost:5115
+
+GET {{SQLi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

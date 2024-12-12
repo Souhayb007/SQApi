@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLi", "SQLi\SQLi.csproj", "{CFE7C298-D363-48CF-84BB-EE90A84D0056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiTest", "SQLiTest\SQLiTest.csproj", "{767CDAA9-1708-42F8-B235-26F50FADD373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE7C298-D363-48CF-84BB-EE90A84D0056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE7C298-D363-48CF-84BB-EE90A84D0056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE7C298-D363-48CF-84BB-EE90A84D0056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE7C298-D363-48CF-84BB-EE90A84D0056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767CDAA9-1708-42F8-B235-26F50FADD373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767CDAA9-1708-42F8-B235-26F50FADD373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767CDAA9-1708-42F8-B235-26F50FADD373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767CDAA9-1708-42F8-B235-26F50FADD373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46C64C5-2BDA-4D25-A3BC-03FCF08E80D6}
+	EndGlobalSection
+EndGlobal
